@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "R.A.T-Injector/commons-fileupload-1.4.jar",
+        "R.A.T-Injector/commons-io-2.11.0.jar",
+        "commons-fileupload-1.4.jar",
+        "commons-io-2.11.0.jar"
+    ]
+}

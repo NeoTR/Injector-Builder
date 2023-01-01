@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Injector Builder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Injector_Builder_jar</output-path>
+    <root id="archive" name="Injector Builder.jar">
+      <element id="module-output" name="Injector Builder" />
+    </root>
+  </artifact>
+</component>
