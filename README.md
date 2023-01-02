@@ -11,6 +11,7 @@ Makes a builder for the Injector which is fully automatic and supports all sorts
 
 
 ## Setup
+**If you have any problems go to https://discord.gg/9qNJFcBbxk!**
 
 1. Make sure to have JDK 8 otherwise it may not work.
 
